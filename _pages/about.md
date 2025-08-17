@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-#Bio
+# Bio
 I earned my undergraduate degree in Geography Education from Universitas Muhammadiyah Prof. Dr. Hamka. I am currently preparing to pursue a Master’s program in Earth Sciences at Institut Teknologi Bandung through the Degree by Research (DBR) scholarship awarded by BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale and mesoscale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation (ENSO), (ii) tropical convection, and (iii) mesoscale convective systems (MCS). I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
 
-#Educations
+# Educations
 - *2021-2025*, B.Ed. in Geography, Universitas Muhammadiyah Prof. Dr. Hamka.
 
 # Projects 
@@ -46,4 +46,3 @@ I earned my undergraduate degree in Geography Education from Universitas Muhamma
 - Deep Learning for Land Cover Prediction, GISACT-ITB, *22 July 2023*, Online Meeting, Indonesia.
 - The 3rd International Conference on Radioscience, Equatorial Atmospheric Science and Environment, BRIN, *15 October 2023*, Bandung, Indonesia
 - Soedirman's International Conference on Mathematics and Applied Sciences, UNSOED, *29 October 2024*, Online, Indonesia.
-- 
