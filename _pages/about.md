@@ -8,51 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+#Bio
+I earned my undergraduate degree in Geography Education from Universitas Muhammadiyah Prof. Dr. Hamka. I am currently preparing to pursue a Master’s program in Earth Sciences at Institut Teknologi Bandung through the Degree by Research (DBR) scholarship awarded by BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale and mesoscale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation (ENSO), (ii) tropical convection, and (iii) mesoscale convective systems (MCS). I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
 
-<span class='anchor' id='about-me'></span>
+#Educations
+- *2021-2025*, B.Ed. in Geography, Universitas Muhammadiyah Prof. Dr. Hamka.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# Projects 
+- **Influence of Climate Variability on Extreme Significant Wave Heights** (Putri et al., 2024)  
+  In this project, I quantified the significant wave height values at the 99th percentile and correlated them 
+  with interannual climate variability (ENSO) over the waters of Sumatra and West Kalimantan.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- **Agroclimatic Suitability of Sorghum Plantation over West Java, Indonesia** (Wulandari et al., 2025)  
+  In this project, I processed climate data over 10 years (2010–2019), as well as projection data for 2030 and 
+  2050 under different radiative scenarios. The output includes the climate suitability index for sorghum in 
+  West Java, aligned with the intraseasonal–seasonal–annual patterns for the periods 2010–2019, 2030, and 2050.
+  
+# Publications
+- **Zehri, S.**, Yulihastin, E., Marpaung, F., Adiputra, A., Mushoddik, Purwadani, N. N., & Gammamerdianti. (2025). [Diverse impact of 2023 El Niño on weather patterns over the Indonesian Maritime Continent](https://doi.org/10.1071/ES25005). *Journal of Southern Hemisphere Earth Systems Science, 75(2)*.
+- **Zehri, S.**, Adiputra, A., Rofifah, H., & Mahasin, A. (2025). [Implementation of Tracking Algorithm for Mesoscale Convective Systems in Flood Disaster Events Over East Belitung, Indonesia](https://doi.org/10.31172/jmg.v25i1.1075). *Jurnal Meteorologi Dan Geofisika, 25(1), 69–81*.
+- Wulandari, E. P., Yulihastin, E., ... , **Zehri, S.**, et al. (2025). [Agroclimatic Suitability of Biomass Sorghum in West Java, Indonesia: A CLIMEX-Based Study for Renewable Energy Development](https://doi.org/10.19184/cerimre.v8i1.53696). *Computational and Experimental Research in Materials and Renewable Energy, 8(1), 30–43*.
+- **Zehri, S.**, Yulihastin, E., Purwadani, N. N., ... , et al. (2025, in prep). [The Role of Mountainous Area Triggering Devastating Cold-Lava Floods accros the West Coast of Sumatra, Indonesia]. *Natural Hazards Journal*
+- **Zehri, S.**, ... , et al. (2025, in prep). [Precipitation Features Associated with MCS and non-MCS Systems during the pre-Genesis and Genesis of Tropical Cyclone Seroja over the Maritime Continent]. *Monthly Weather Review Journal*.
+- Ekananda, A. G., ... , **Zehri, S.**, et al. (2025, in prep - under revision). [The Influence of Super El Niño on the Distribution of Heat and Water Vapor over Indonesia]. *Indian Journal of Meteorology, Hydrology & Geophysics*.
+- **Zehri, S.**, & Mahasin, A. (2025, in prep). [The Varied Impacts of El Niño Southern Oscillation on Seasonal Variability of Weather Patterns over the Indonesia Maritime Continent under a Warming Climate]. *Makara Journal of Sciences*.
 
+# Honors and Awards
+- The 2nd Best Graduate of Social Sciences, Taruna Terpadu 1 High School, *June 2021*.
+- Best Graduate Category Male, Taruna Terpadu 1 High School, *June 2021*.
+- Awardee of Bank Syariah Indonesia (BSI) Scholarship Batch 2, Indonesia, *November 2022*.
+- Awardee of Southeast Asia Youth Leader Connect in association with Singapore Global Network (SGN) and Kinobi, *October 2023*.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Seminar and Conferences
+- Smart Disaster Mapping and Contribution of Geography in Humanity, UHAMKA, *23 December 2022*, Jakarta, Indonesia.
+- Renewable Energy and Emerging Technologies: Small-Scale Power Generation (Wind and Biomass), UHAMKA, *11 March 2023*, Jakarta, Indonesia.
+- Strengthening Pentahelix Disaster Management in Building Community Resilience, UHAMKA, *01 April 2023*, Jakarta, Indonesia.
+- Deep Learning for Land Cover Prediction, GISACT-ITB, *22 July 2023*, Online Meeting, Indonesia.
+- The 3rd International Conference on Radioscience, Equatorial Atmospheric Science and Environment, BRIN, *15 October 2023*, Bandung, Indonesia
+- Soedirman's International Conference on Mathematics and Applied Sciences, UNSOED, *29 October 2024*, Online, Indonesia.
+- 
