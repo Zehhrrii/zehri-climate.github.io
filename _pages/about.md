@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Bio
-I earned my graduate degree in Geography Education from Universitas Muhammadiyah Prof. Dr. Hamka. I am currently preparing to pursue a Master’s program in Earth Physics at Institut Teknologi Bandung through the Degree by Research (DBR) scholarship by BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale and mesoscale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation, (ii) tropical convection, and (iii) mesoscale convective systems. I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
+I am currently preparing to pursue a Master’s program in Earth Physics and Complex Systems at Institut Teknologi Bandung through the Degree by Research (DBR) scholarship by BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale and mesoscale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation, (ii) subseasonal-seasonal-annual precipitation, and (iii) violent thunderstorms induced by mesoscale convective systems. I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
 
 # Educations
 - *2021-2025*, B.Ed. in Geography, Universitas Muhammadiyah Prof. Dr. Hamka.
