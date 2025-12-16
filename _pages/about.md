@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Bio
-I am currently preparing to pursue a Master’s program in Earth Physics and Complex Systems at Institut Teknologi Bandung through the Degree by Research (DBR) scholarship by BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation, (ii) subseasonal-seasonal-annual precipitation, and (iii) violent thunderstorms induced by mesoscale convective systems. I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
+I am currently a Master’s program in Earth Physics and Complex Systems at Institut Teknologi Bandung, supported by the Degree by Research (DBR) scholarship from BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation, (ii) subseasonal-seasonal-annual precipitation, and (iii) violent thunderstorms induced by mesoscale convective systems. I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
 
 # Educations
 - *2021-2025*, B.Ed. in Geography, Universitas Muhammadiyah Prof. Dr. Hamka.
@@ -34,10 +34,9 @@ I am currently preparing to pursue a Master’s program in Earth Physics and Com
 - **Zehri, S.**, & Mahasin, A. (2025, in prep). The Varied Impacts of El Niño Southern Oscillation on Seasonal Variability of Weather Patterns over the Indonesia Maritime Continent under a Warming Climate. *Makara Journal of Sciences*.
 
 # Honors and Awards
-- The 2nd Best Graduate of Social Sciences, Taruna Terpadu 1 High School, *June 2021*.
-- Best Graduate Category Male, Taruna Terpadu 1 High School, *June 2021*.
 - Awardee of Bank Syariah Indonesia (BSI) Scholarship Batch 2, Indonesia, *November 2022*.
 - Awardee of Southeast Asia Youth Leader Connect in association with Singapore Global Network (SGN) and Kinobi, *October 2023*.
+- Awardee of Degree by Research, National Research and Innovation Agency, Indonesia, *December 2025*.
 
 # Seminar and Conferences
 - Smart Disaster Mapping and Contribution of Geography in Humanity, UHAMKA, *23 December 2022*, Jakarta, Indonesia.
