@@ -13,6 +13,7 @@ I am currently a Master’s program in Earth Physics and Complex Systems at Inst
 
 # Educations
 - *2021-2025*, B.Ed. in Geography, Universitas Muhammadiyah Prof. Dr. Hamka.
+- *2025-Present*, Earth Physics and Complex Systems, Institut Teknologi Bandung.
 
 # Projects 
 - **Influence of Climate Variability on Extreme Significant Wave Heights** (Putri et al., 2024)  
