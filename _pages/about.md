@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Bio
-I am currently a Master’s program in Earth Physics and Complex Systems at Institut Teknologi Bandung, supported by the Degree by Research (DBR) scholarship from BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on large-scale atmospheric dynamics, with particular emphasis on (i) the El Niño–Southern Oscillation, (ii) subseasonal-seasonal-annual precipitation, and (iii) violent thunderstorms induced by mesoscale convective systems. I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
+I am currently a Master’s program in Earth Physics and Complex Systems at Institut Teknologi Bandung, supported by the Degree by Research (DBR) scholarship from BRIN, under the supervision of [**Prof. Dr. Erma Yulihastin**](https://scholar.google.com/citations?user=sSOYsccAAAAJ&hl=en&oi=sra). My research interests focus on ocean-atmosphere interaction and mesoscale meteorology, with particular emphasis on (i) the El Niño–Southern Oscillation, (ii) subseasonal-seasonal-annual precipitation, and (iii) violent thunderstorms induced by mesoscale convective systems. I have contributed to the scientific community through the publication of several manuscripts in both national and international high-impact journals. 
 
 # Educations
 - *2021-2025*, B.Ed. in Geography, Universitas Muhammadiyah Prof. Dr. Hamka.
@@ -29,12 +29,10 @@ I am currently a Master’s program in Earth Physics and Complex Systems at Inst
 - **Zehri, S.**, Yulihastin, E., Marpaung, F., Adiputra, A., Mushoddik, Purwadani, N. N., & Gammamerdianti. (2025). [Diverse impact of 2023 El Niño on weather patterns over the Indonesian Maritime Continent](https://doi.org/10.1071/ES25005). *Journal of Southern Hemisphere Earth Systems Science, 75(2)*.
 - **Zehri, S.**, Adiputra, A., Rofifah, H., & Mahasin, A. (2025). [Implementation of Tracking Algorithm for Mesoscale Convective Systems in Flood Disaster Events Over East Belitung, Indonesia](https://doi.org/10.31172/jmg.v25i1.1075). *Jurnal Meteorologi Dan Geofisika, 25(1), 69–81*.
 - Wulandari, E. P., Yulihastin, E., ... , **Zehri, S.**, et al. (2025). [Agroclimatic Suitability of Biomass Sorghum in West Java, Indonesia: A CLIMEX-Based Study for Renewable Energy Development](https://doi.org/10.19184/cerimre.v8i1.53696). *Computational and Experimental Research in Materials and Renewable Energy, 8(1), 30–43*.
-- **Zehri, S.**, Yulihastin, E., Purwadani, N. N., ... , et al. (2025, in prep). The Role of Mountainous Area Triggering Devastating Cold-Lava Floods accros the West Coast of Sumatra, Indonesia. *Natural Hazards Journal*
-- **Zehri, S.**, ... , et al. (2025, in prep). Precipitation Features Associated with MCS and non-MCS Systems during the pre-Genesis and Genesis of Tropical Cyclone Seroja over the Maritime Continent. *Monthly Weather Review Journal*.
-- Ekananda, A. G., ... , **Zehri, S.**, et al. (2025, in prep - under revision). The Influence of Super El Niño on the Distribution of Heat and Water Vapor over Indonesia. *Indian Journal of Meteorology, Hydrology & Geophysics*.
-- **Zehri, S.**, & Mahasin, A. (2025, in prep). The Varied Impacts of El Niño Southern Oscillation on Seasonal Variability of Weather Patterns over the Indonesia Maritime Continent under a Warming Climate. *Makara Journal of Sciences*.
+- **Zehri, S.**, Yulihastin, E., Purwadani, N. N., ... , et al. (2025, in prep). Successive Mesoscale Convective Complexes Induced Cold Lahar Flood in Padang, West Sumatra, Indonesia.
+- **Zehri, S.**, & Mahasin, A. (2026, in prep). Shifting Climatic Controls on Seasonal Precipitation over the Indonesian Maritime Continent: Increasing Dominance of ENSO under Historical Warming.
 
-# Honors and Awards
+# Honors
 - Awardee of Bank Syariah Indonesia (BSI) Scholarship Batch 2, Indonesia, *November 2022*.
 - Awardee of Southeast Asia Youth Leader Connect in association with Singapore Global Network (SGN) and Kinobi, *October 2023*.
 - Awardee of Degree by Research, National Research and Innovation Agency, Indonesia, *December 2025*.
